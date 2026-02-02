@@ -1,16 +1,16 @@
-## Hi there 👋
+# Rafael Rodrigues de Oliveira
 
-<!--
-**RafaelROliveira/RafaelROliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bacharel em Ciência da Computação pela UNESC. Desenvolvedor full stack.
 
-Here are some ideas to get you started:
+## Stack
+- Frontend: React, Next.js
+- Backend: Node.js, Express
+- Banco: MongoDB
+- Outros: JWT, REST APIs, Git/GitHub, Vercel, Render
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos em destaque
+- **EquilibraFC** — gerenciador de jogos (listas, times, histórico e backup)
+- **Lethal Hub** — gerenciador de obras (status, favoritos e backup)
+- **TCC: Extensão de Controle Parental (Manifest V3)** — regras dinâmicas, listas e modo estudo
+
+📍 Criciúma/SC - Brasil
